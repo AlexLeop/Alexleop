@@ -1,5 +1,4 @@
 ### Olá! Eu sou Alex Leopoldo 🖐️
-<img aling="left" alt="Alex" src="https://readyplayer.me/gallery/2QpTbgMlG"/>
 
 Fico muito feliz em ter você aqui! 😃
 
