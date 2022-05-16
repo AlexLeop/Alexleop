@@ -10,10 +10,10 @@ Fico muito feliz em ter você aqui! 😃
 
 <div style="display: inline-block">
   <a href="htts://github.com/Alexleop">
-    <img heigth="100em" src="https://github-readme-stats.vercel.app/api?username=Alexleop&show_icons=true&theme=onedark&locale=pt-br"/>
+    <img heigth="auto" src="https://github-readme-stats.vercel.app/api?username=Alexleop&show_icons=true&theme=onedark&locale=pt-br"/>
   </a>
   <a href="htts://github.com/Alexleop">
-    <img heigth="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alexleop&layout=compact&langs_count=16&theme=onedark&locale=pt-br"/>
+    <img heigth="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alexleop&layout=compact&langs_count=16&theme=onedark&locale=pt-br"/>
   </a>
 </div>
  
