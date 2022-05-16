@@ -10,8 +10,8 @@ Fico muito feliz em ter você aqui! 😃
 
 <div>
   <a href="htts://github.com/Alexleop">
-    <img heigth="200em" width="550em" src="https://github-readme-stats.vercel.app/api?username=Alexleop&show_icons=true&theme=onedark&locale=pt-br"/>
-    <img heigth="200em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alexleop&layout=compact&langs_count=16&theme=onedark&locale=pt-br"/>
+    <img heigth="200em" width="40%" src="https://github-readme-stats.vercel.app/api?username=Alexleop&show_icons=true&theme=onedark&locale=pt-br"/>
+    <img heigth="200em" width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alexleop&layout=compact&langs_count=16&theme=onedark&locale=pt-br"/>
   </a>
 </div>
  
