@@ -8,7 +8,7 @@ Fico muito feliz em ter você aqui! 😃
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/Alexleop)
 [![Stack_Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://www.overflow.com/Alexleop)
 
-<div width="100%" display="block">
+<div style="display: inline-block">
   <a href="htts://github.com/Alexleop">
     <img heigth="200em" src="https://github-readme-stats.vercel.app/api?username=Alexleop&show_icons=true&theme=onedark&locale=pt-br"/>
     <img heigth="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alexleop&layout=compact&langs_count=16&theme=onedark&locale=pt-br"/>
