@@ -9,9 +9,9 @@ Fico muito feliz em ter você aqui! 😃
 [![Stack_Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://www.overflow.com/Alexleop)
 
 <div>
-  <a href="htts://github.com/Alexleop">
-    <img heigth="200em" width="40%" src="https://github-readme-stats.vercel.app/api?username=Alexleop&show_icons=true&theme=onedark&locale=pt-br"/>
-    <img heigth="200em" width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alexleop&layout=compact&langs_count=16&theme=onedark&locale=pt-br"/>
+  <a href="htts://github.com/Alexleop" width="100%">
+    <img heigth="200em" src="https://github-readme-stats.vercel.app/api?username=Alexleop&show_icons=true&theme=onedark&locale=pt-br"/>
+    <img heigth="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alexleop&layout=compact&langs_count=16&theme=onedark&locale=pt-br"/>
   </a>
 </div>
  
