@@ -6,7 +6,7 @@ Fico muito feliz em ter você aqui! 😃
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexleop/)
 [![HackRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/lx_leopoldo?hr_r=1)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/Alexleop)
-[![Stack_Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)]([https://www.overflow.com/Alexleop](https://pt.stackoverflow.com/users/293235/alex-leopoldo-da-silva))
+[![Stack_Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)]([(https://pt.stackoverflow.com/users/293235/alex-leopoldo-da-silva)])
 
 <div style="display: inline-block">
   <a href="htts://github.com/Alexleop">
